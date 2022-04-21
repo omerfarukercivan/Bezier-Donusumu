@@ -1,0 +1,10 @@
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\bin\Debug\Bezier.exe.config
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\bin\Debug\Bezier.exe
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\bin\Debug\Bezier.pdb
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\obj\Debug\Bezier.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\obj\Debug\Bezier.Form1.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\obj\Debug\Bezier.Properties.Resources.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\obj\Debug\Bezier.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\obj\Debug\Bezier.exe
+C:\Users\Ömer Faruk Ercivan\Desktop\Bezier\Bezier\obj\Debug\Bezier.pdb
