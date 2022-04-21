@@ -1,3 +1,3 @@
 # Açıklama
 
-C# diliyle yazılımış bezier dönüşüm kodu.
+Bezier dönüşümü sağlayan C# kodu.
